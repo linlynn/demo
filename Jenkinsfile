@@ -1,7 +1,4 @@
 pipeline {
-    stage {
-       sh "echo $PATH"
-    }
     agent { docker 'python:3.5.1' }
     stages {
         stage('build') {
