@@ -1,6 +1,6 @@
 package world
 import "fmt"
 
-func greeting(){
+func Greeting(){
     fmt.Println("hello,world")
 }
