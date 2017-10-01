@@ -1,3 +1,1 @@
-# demo
-just for test
-hello
+test for git hook
